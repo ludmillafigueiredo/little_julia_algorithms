@@ -1,7 +1,5 @@
 # The Little Julia Algorithms
 
-My solutions to the Segupta &amp; Lau (2020) book "The Little Book of Julia Algorithms".
-
-The problems proposed in the book are not included to avoid copyright infrigments.
+My solutions to the problems proposed in the Segupta &amp; Lau (2020) book "The Little Book of Julia Algorithms". The problems themselves are not included here to avoid copyright infrigments.
 
 As per usual, git messages follow this format: http://udacity.github.io/git-styleguide/
